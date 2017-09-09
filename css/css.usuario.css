@@ -1,0 +1,45 @@
+.user-center{
+	position: absolute;
+	left: 5%;
+	right: 30%;
+	top: 80px;
+	background: white;
+	border:thin solid gray;
+}
+#user-dados-foto{
+	width: 150px;
+	border-radius: 100px;
+	margin-left:2%;
+	margin-top: 2%;
+}
+
+#user-dados-nome{
+	position: absolute;
+	left: 185px;
+	top:75px;
+	font-size: 25px;
+}
+
+#user-quest-ask{
+
+	position: relative;
+	left: 2%;
+}
+.user-ask{
+	position: relative;
+}
+
+#user-ask-textarea{
+	width: 95%;
+	margin-left: 2.5%;
+	height: 80px;
+	margin-bottom: 30px;
+}
+
+#user-ask-buton{
+	padding: 5px;
+	position: absolute;
+	right: 2.0%;
+	bottom: 0;
+	
+}
